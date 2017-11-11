@@ -9,9 +9,6 @@ built the project with Node.js, Express.js, Angular.js, and MongoDB.
 databse, and writing front-end and back end validations for User info and preferences.  I also wrote the search functionality
 that allows a user to filter boards/pins by topic.
 
-  This project is not currently deployed although deploying it to Heroku is on my immediate to-do list and should be completed
-within a week of this writing.
-
   This project was a great learning experience and went a long way towards helping us understand how all the moving parts of
 a fullstack JavaScript application work together.  If we could do it again, I would probably try to make it more modular and
 break up the larger function and files in smaller bits with better defined purposes.
